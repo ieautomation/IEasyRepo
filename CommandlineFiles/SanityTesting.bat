@@ -1,0 +1,1 @@
+java -jar D:\IEASY-TestEnvironment\IEasyFramework-v.01-jfx.jar -t ITAU-Regression-CH_SanityTesting
