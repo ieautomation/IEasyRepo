@@ -1,1 +1,0 @@
-java -jar ..\IEasyFramework-v.01-jfx.jar -t Sample_SMOKE

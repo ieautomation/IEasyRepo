@@ -1,1 +1,1 @@
-java -jar D:\IEASY-TestEnvironment\IEasyFramework-v.01-jfx.jar -t ITAU-Regression-CH_SanityTesting
+java -jar D:\Workspaces\IEasy-DevelopmentPhase\iEasy.jar -t TSS_ITAU-Regression-CH_DEMO_TC_CustomerCreation
